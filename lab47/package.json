@@ -1,0 +1,19 @@
+{
+  "name": "lab47",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgeordovi/lab47.git"
+  },
+  "author": "Jorge Ordonez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeordovi/lab47/issues"
+  },
+  "homepage": "https://github.com/jorgeordovi/lab47"
+}
